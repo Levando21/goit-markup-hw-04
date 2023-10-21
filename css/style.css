@@ -1,15 +1,14 @@
 
 
 
-
-
-
 *,
 ::before,
 ::after{
 
     box-sizing: border-box;
 }
+
+
 
 :root{
     --primary-brand: #4d5ae5;
@@ -37,6 +36,7 @@ img{
 
 
 body {
+
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background: #FFF;
