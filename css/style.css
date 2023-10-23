@@ -546,8 +546,9 @@ button, select{
 
 
 .icon-flex{
-
-    fill:#404BBf
+    
+    display: flex;
+    fill:#f4f4f4
 }
 
 
