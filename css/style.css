@@ -750,11 +750,11 @@ button, select{
 
 
 
-.footer-container{
+.john-container{
 
    
     display:flex;
-    align-items:center;
+    align-items:baseline;
 
 }
 
@@ -797,11 +797,11 @@ button, select{
 
 
 
-.social-media-container{
+.footer-container{
 
      
     
-    margin-bottom: 120px;
+    margin-right: 120px;
 
 
 }
